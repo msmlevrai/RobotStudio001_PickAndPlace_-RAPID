@@ -17,5 +17,5 @@ This project demonstrates a Pick and Place procedure using ABB RobotStudio. It i
 - `README.md` – Project overview
 
 ## ▶️ Demo
-![Pick and Place Demo](RobotStudio001_PickAndPlace_SocialMedia-ezgif.com-video-to-gif-converter)
+![Pick and Place Demo](RobotStudio001_PickAndPlace_SocialMedia-ezgif.com-video-to-gif-converter.gif)
 
