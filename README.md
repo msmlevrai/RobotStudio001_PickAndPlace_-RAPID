@@ -15,6 +15,8 @@ This project demonstrates a Pick and Place procedure using ABB RobotStudio. It i
 - `MainModule.mod` – RAPID code
 - `SmartComponent.grip` – Gripper logic
 - `README.md` – Project overview
+## 💬 Let’s Connect:
+📎 [LinkedIn Profile](https://www.linkedin.com/in/mamadou-sory-maiga-0612112ab)  
 
 ## ▶️ Demo
 ![Pick and Place Demo](RobotStudio001_PickAndPlace_SocialMedia-ezgif.com-video-to-gif-converter.gif)
